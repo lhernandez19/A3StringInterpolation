@@ -1,0 +1,15 @@
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/A3StringInterpolation.deps.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/A3StringInterpolation.runtimeconfig.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/A3StringInterpolation.runtimeconfig.dev.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/A3StringInterpolation.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/ref/A3StringInterpolation.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/bin/Debug/net5.0/A3StringInterpolation.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.csprojAssemblyReference.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.AssemblyInfoInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.AssemblyInfo.cs
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/ref/A3StringInterpolation.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A3StringInterpolation/obj/Debug/net5.0/A3StringInterpolation.genruntimeconfig.cache
